@@ -9,7 +9,7 @@
     <!-- Bootstrap -->
     <!-- <link rel="stylesheet" href="css/bootstrap-grid.min.css" crossorigin="anonymous"> -->
     <!-- Google Font -->
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&family=Roboto+Slab:wght@200;300;400;500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&family=Roboto+Slab:wght@200;300;400;500&display=swap" rel="stylesheet">
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/all.min.css">
     <!-- Style -->
@@ -71,9 +71,9 @@
                 </div>
                 <!-- /Keyword Tag -->
                 <!--  -->
-                <div class="aside-best-selling">
+                <div class="aside-list">
                     <p class="aside-title">Meilleurs ventes</p>
-                    <a>
+                    <a href="#">
                         <img src="img/bouteille.png" alt="">
                         <div class="details">
                             <p>Nom de la bouteille</p>
